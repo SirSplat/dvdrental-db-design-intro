@@ -1,16 +1,13 @@
 ---
-
 marp: true
+theme: custom-default
 footer: 'https://github.com/SirSplat/dvdrental-db-design-intro'
-
 ---
 
 # Introduction
-<!-- ![bg right:60%](img/spiralstairs.png) -->
 ![bg opacity](img/spiralstairs.png)
 
-<!-- ![](img/Screenshot%202024-07-31%20at%2015.14.58.png) -->
-
+It looks even worse from the bottom!
 <!--
 Let's go on a little journey "down the rabbit hole" - or up in this case :) that is one of PostgreSQL's sample databases, The DVD Rental database.
 
