@@ -6,17 +6,14 @@ footer: 'https://github.com/SirSplat/dvdrental-db-design-intro'
 
 ---
 
-<!--
-Let's go on a little journey through the wormhole that is the DVD Rental database, one of PostgreSQL's sample databases
-    We'll take it as is and try to bring it up to date.
-    It's been years since the DVDRental company was established in the USA,
--->
 # Introduction
-![bg right](https://picsum.photos/800/600)
+![bg opacity](img/spiralstairs.png)
+<!--
+Let's go on a little journey "down the rabbit hole" that is the DVD Rental database design (one of PostgreSQL's sample databases)
+    We'll take it as is and try to bring it up to date.
+-->
 
 ---
-
-<!-- Why can I not see my "Speaker Notes" !!!!!! -->
 
 ## Slide 1
 
@@ -28,10 +25,11 @@ Let's go on a little journey through the wormhole that is the DVD Rental databas
 ---
 
 ## Slide 2
-<!-- Can also do a multiline
-comment that will show in notes -->
 
 ![Image](https://picsum.photos/800/600)
+
+<!-- Can also do a multiline
+comment that will show in notes -->
 
 ---
 
