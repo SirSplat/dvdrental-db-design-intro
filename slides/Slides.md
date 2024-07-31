@@ -1,23 +1,32 @@
 ---
 
 marp: true
-theme: custom-default
 footer: 'https://github.com/SirSplat/dvdrental-db-design-intro'
 
 ---
 
 # Introduction
 ![bg opacity](img/spiralstairs.png)
+
 <!--
-Let's go on a little journey "down the rabbit hole" that is the DVD Rental database design (one of PostgreSQL's sample databases)
-    We'll take it as is and try to bring it up to date.
+Let's go on a little journey "down the rabbit hole" that is the DVD Rental database (one of PostgreSQL's sample databases)
+
+We'll take it as is and attempt
 -->
 
 ---
 
-## Slide 1
+# Introduction
+![bg opacity](img/spiralstairs-requirements.jpeg)
 
-- Item 1
+<!-- Not sure WTF is going on here !!! -->
+
+---
+
+## The cold hard truth
+![bg opacity](img/coldhardtruth.png)
+
+-
 - Item 2
 - Item 3
 <!-- Can have multiple on a slide -->
@@ -101,3 +110,22 @@ graph TD;
     B-->D;
     C-->D;
 </div>
+
+---
+
+<section id="1">
+  <h1>Bullet list</h1>
+  <ul>
+    <li>One</li>
+    <li>Two</li>
+    <li>Three</li>
+  </ul>
+</section>
+<section id="2" data-marpit-fragments="3">
+  <h1>Fragmented list</h1>
+  <ul>
+    <li data-marpit-fragment="1">One</li>
+    <li data-marpit-fragment="2">Two</li>
+    <li data-marpit-fragment="3">Three</li>
+  </ul>
+</section>
