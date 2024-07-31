@@ -4,12 +4,13 @@ theme: custom-default
 footer: 'https://example.com'
 ---
 
-# My Presentation
+# Introduction
 ![bg right](https://picsum.photos/800/600)
 
 ---
 
 <!-- Speaker Notes -->
+<!--Just something as a test -->
 ## Slide 1
 
 - Item 1
@@ -68,11 +69,11 @@ comment that will show in notes -->
 
 ## Slide 6
 
-<i class="fa-brands fa-twitter"></i> Twitter: 
-<i class="fa-brands fa-mastodon"></i> Mastodon: 
-<i class="fa-brands fa-linkedin"></i> LinkedIn: 
-<i class="fa fa-window-maximize"></i> Blog: 
-<i class="fa-brands fa-github"></i> GitHub: 
+<i class="fa-brands fa-twitter"></i> Twitter:
+<i class="fa-brands fa-mastodon"></i> Mastodon:
+<i class="fa-brands fa-linkedin"></i> LinkedIn:
+<i class="fa fa-window-maximize"></i> Blog:
+<i class="fa-brands fa-github"></i> GitHub:
 
 ---
 
