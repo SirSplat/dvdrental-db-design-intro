@@ -1,16 +1,23 @@
 ---
+
 marp: true
 theme: custom-default
-footer: 'https://example.com'
+footer: 'https://github.com/SirSplat/dvdrental-db-design-intro'
+
 ---
 
+<!--
+Let's go on a little journey through the wormhole that is the DVD Rental database, one of PostgreSQL's sample databases
+    We'll take it as is and try to bring it up to date.
+    It's been years since the DVDRental company was established in the USA,
+-->
 # Introduction
 ![bg right](https://picsum.photos/800/600)
 
 ---
 
-<!-- Speaker Notes -->
-<!--Just something as a test -->
+<!-- Why can I not see my "Speaker Notes" !!!!!! -->
+
 ## Slide 1
 
 - Item 1

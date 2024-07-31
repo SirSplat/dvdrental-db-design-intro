@@ -58,7 +58,7 @@ This repository is licensed under the [MIT License]. Reuse or extend the code as
 
 - [Use this template](https://github.com/codebytes/marp-slides-template/generate)
 
-- GitHub Pages: [https://docs.github.com/en/pages](https://docs.github.com/en/pages)
+- GitHub Pages: [https://docs.github.com/en/pages](https://docs.github.com/en/pages) -- https://sirsplat.github.io/dvdrental-db-design-intro/
 
 - CommonMark markdown syntax: [https://commonmark.org/help/](https://commonmark.org/help/)
 
