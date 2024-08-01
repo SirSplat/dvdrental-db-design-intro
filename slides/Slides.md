@@ -25,9 +25,9 @@ Here we will cover
 
 # Introduction
 ![bg opacity](img/spiralstairs-requirements.png)
-## Problem Statement
+##### Problem Statement
 
-<!-- Not sure if I should give it here !!! -->
+<!-- This is the business spec and can be either very thin (match-box) or overly complex and convoluted -->
 
 ---
 
@@ -36,6 +36,7 @@ Here we will cover
 ## Problem Statement
 ## Conceptual Design
 
+<!-- Traditionally done using pencil and paper, fortunately this have evolved since, unfortunately you will be using the paper approach, sorry :) -->
 ---
 
 # Introduction
@@ -44,6 +45,7 @@ Here we will cover
 ## Conceptual Design
 ## Logical Design
 
+<!--  -->
 ---
 
 # Introduction
